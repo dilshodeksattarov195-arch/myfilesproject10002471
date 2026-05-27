@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfonnect",
+        "uuid": 24242981,
+        "checksum": "0fweas"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
